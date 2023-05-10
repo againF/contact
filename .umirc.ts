@@ -4,7 +4,8 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
-  publicPath: './',
+  publicPath: '/contact/',
+  base: '/contact/',
   routes: [{ path: '/', component: '@/pages/index' }],
   fastRefresh: {},
 });
