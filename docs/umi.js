@@ -49,7 +49,7 @@
     (n.o = function (e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
     }),
-    (n.p = '/foo/'),
+    (n.p = '/contact/'),
     n((n.s = 0));
 })({
   '++zV': function (e, t, n) {
